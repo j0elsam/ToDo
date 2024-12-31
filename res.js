@@ -28,7 +28,6 @@ button.addEventListener("click", function()
 
     {   
         flag = !flag
-        li.style.backgroundColor=flag ? "rgb(236, 232, 232)" : "transparent"
 
         complete.style.scale=flag ? "110%" : "90%"
         span.classList.toggle("completed")

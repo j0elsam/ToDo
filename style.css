@@ -68,8 +68,8 @@ p{
 
 .completed{
     text-decoration:line-through;
-    color: rgba(0, 92, 3, 0.637);
-    scale: 88%;
+    /* color: rgba(0, 92, 3, 0.637); */
+    /* scale: 88%; */
 }
 @media screen and (max-width: 826px) {
     #field{
